@@ -1,0 +1,15 @@
+Test Name: TestQuiz
+Created By: Mr Fluffle
+Number of Questions: 5
+Question: What is the capital of Indiana?
+Answer: Denver
+Answer: Baton Rouge
+Answer: Your Nan
+Answer: Washington D.C.
+Right Answer: Indianapolis
+Question: What is the primary color of Kamen Rider Ex-Aid?
+Answer: Red
+Answer: Blue
+Answer: Orange
+Answer: Purple
+Right Answer: Pink
